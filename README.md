@@ -1,9 +1,3 @@
-¡Excelente idea! Un buen archivo `README.md` es la cara de tu proyecto en GitHub y demuestra profesionalismo, especialmente para trabajos académicos hechos en equipo.
-
-Basado en la información de los archivos de tu proyecto (**Estudio Jurídico**) y en lo que me contaste, aquí tenés una propuesta completa lista para copiar y pegar:
-
----
-
 # Sistema de Gestión de Estudio Jurídico ⚖️
 
 Este proyecto fue desarrollado como parte de la cursada de **Estructura y Base de Datos** en la **UTN - INSPT**. El objetivo principal fue diseñar e implementar desde cero una base de datos relacional capaz de gestionar las operaciones diarias de un estudio de abogados.
